@@ -6,4 +6,7 @@ package com.heima.git.gittest;
  * @Description:
  */
 public class HelloWorld {
+    public static void main(String[] args) {
+
+    }
 }
